@@ -78,4 +78,8 @@ document.getElementById("heading1").innerHTML = "the answer is" +  " " +  oneNum
 //clear the calculator
 document.getElementById("clear").onclick = function(){
     document.getElementById("heading1").textContent = " " ;
+//clear the first number
+document.getElementById("firstNumber").value = " ";
+//clear secondnumber
+document.getElementById("secondNumber").value = " ";
 }

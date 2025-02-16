@@ -24,10 +24,10 @@
         }
         div{
             width: 300px;
-            margin: 0 auto;
-            border: 2px solid #222;
+            margin: 80px auto;
+            border: 2px solid #8f8f8f;
             padding: 15px;
-            background-color: #afafaf;
+            background-color: #f1eded;
         }
         @media (max-width:357px) {
             button{
